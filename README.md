@@ -1,2 +1,6 @@
 # dashboard
-pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
+pip install pandas
+numpy
+seaborn
+matplotlib
+streamlit
